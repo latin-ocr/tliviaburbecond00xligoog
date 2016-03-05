@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviaburbecond00xligoog_0008.png"; bbox 0 0 756 1223; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 407 471 424">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 407 471 424">
+     <span class='ocr_line' id='line_1_1' title="bbox 257 407 471 424; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 257 407 334 424; x_wconf 79' lang='lat' dir='ltr'>HERRN</span> <span class='ocrx_word' id='word_1_2' title='bbox 345 407 471 424; x_wconf 72' lang='lat' dir='ltr'>PROFESSOR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 86 474 639 508">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 86 474 639 508">
+     <span class='ocr_line' id='line_1_2' title="bbox 86 474 639 508; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 86 479 142 508; x_wconf 70' lang='lat' dir='ltr'><strong>Dss.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 164 479 361 507; x_wconf 83' lang='lat' dir='ltr'><strong>EDUARD</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 386 474 639 507; x_wconf 78' lang='lat' dir='ltr'>WOLFFLIN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 171 557 556 661">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 171 557 556 661">
+     <span class='ocr_line' id='line_1_3' title="bbox 283 557 447 578; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 283 560 312 578; x_wconf 88' lang='lat' dir='ltr'><strong>ZU</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 326 557 447 578; x_wconf 76' lang='lat' dir='ltr'>MUNCHEN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 171 644 556 661; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 171 645 193 660; x_wconf 78' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_9' title='bbox 205 645 330 661; x_wconf 65' lang='lat' dir='ltr'>vammum</span> <span class='ocrx_word' id='word_1_10' title='bbox 342 645 384 660; x_wconf 76' lang='lat' dir='ltr'><strong>mm</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 396 644 556 660; x_wconf 70' lang='lat' dir='ltr'><strong>FREUNDSCHAFT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 319 730 408 740">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 319 730 408 740">
+     <span class='ocr_line' id='line_1_5' title="bbox 319 730 408 740; baseline -0.011 0"><span class='ocrx_word' id='word_1_12' title='bbox 319 730 408 740; x_wconf 39' lang='lat' dir='ltr'><strong>nnnnnnnn</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
